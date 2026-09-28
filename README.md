@@ -16,8 +16,7 @@
 
 ## 💻 About Me & Engineering Profile
 
-> [NOTE]
-> ### 🎯 CORE PROFILE
+> ### 🎯 PROFESSIONAL OVERVIEW
 > Control & Automation Engineer specialized in process optimization, data analytics, industrial computer vision, and building automated data workflows.
 
 - 🔭 **Current Work:** Process optimization, data workflow automation, and internal tool development.
@@ -69,4 +68,3 @@
 </p>
 
 </div>
-
