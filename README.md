@@ -29,12 +29,6 @@ F1 fan & LEGO builder.
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=DCD55&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=DCD55&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DCD55&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
 
 ---
 
