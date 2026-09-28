@@ -1,14 +1,11 @@
 <div align="center">
 
-# `<Diego Carmona Diaz`
-### `{AUTOMATION & CONTROL ENGINEER | DATA & ANALYTICS}`
+# Diego CD
+### **Automation & Control Engineer | Data Analytics & Optimization**
 
-<br>
+`Python` • `SQL` • `Power BI` • `MATLAB & Simulink` • `Computer Vision` • `Power Platform`
 
-<!-- Typing SVG dinámico -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F2C811&center=true&vcenter=true&width=600&lines=Control+%26+Automation+Engineering%3B;Data+Analytics+%2B+Process+Optimization%3B;Python+%2B+SQL+%2B+Power+BI+%2B+MATLAB%3B;Industrial+Computer+Vision+%26+Smart+Workflows%3B" alt="Typing SVG" />
-</a>
+---
 
 </div>
 
