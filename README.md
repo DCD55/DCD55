@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Banner Principal Equilibrado (Ingeniería + Data) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,100:0077b5&height=200&section=header&text=Diego%20Carmona%20D%C3%ADaz&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Automation%20%26%20Control%20Engineer%20%7C%20Data%20Analytics%20%26%20Process%20Optimization&descSize=15&descAlignY=62&descColor=f2c811" width="100%" alt="Header Banner"/>
+<!-- Banner SVG oscuro con patrón de ondas elegante estilo LinkedIn -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111318&height=220&section=header&text=%3CDiego%20Carmona%20Diaz&fontSize=38&fontColor=ffffff&fontAlignY=38&fontAlign=60&desc=%7BAUTOMATION%20%26%20CONTROL%20ENGINEER%20%7C%20DATA%20%26%20ANALYTICS%7D&descSize=13&descAlignY=62&descAlign=60&descColor=f2c811" width="100%" alt="Header Banner"/>
 
 <br>
 
-<!-- Typing SVG -->
+<!-- Typing SVG dinámico -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&pause=1000&color=0077B5&center=true&vcenter=true&width=600&lines=Control+%26+Automation+Engineering;Data+Analytics+%2B+Process+Optimization;Python+%2B+SQL+%2B+Power+BI+%2B+MATLAB;Industrial+Computer+Vision+%26+Smart+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F2C811&center=true&vcenter=true&width=600&lines=Control+%26+Automation+Engineering%3B;Data+Analytics+%2B+Process+Optimization%3B;Python+%2B+SQL+%2B+Power+BI+%2B+MATLAB%3B;Industrial+Computer+Vision+%26+Smart+Workflows%3B" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -27,7 +27,7 @@
 - 🔭 **Current Work:** Process optimization, data workflow automation, and internal tool development.
 - 🛠️ **Core Competencies:** Data Analytics, Process Modeling, SQL Querying, Power BI Dashboards, Computer Vision, and Automation.
 - 🌱 **Learning & Expansion:** AI/ML integration workflows and Polish language.
-- 💬 **Ask me about:** Control & Automation Engineering, Power Platform, Python, SQL, MATLAB/Simulink, or Process Modeling.
+- 💬 **Ask me about:** Control & Automation Engineering, Power Platform, Python, SQL (MySQL & Oracle), MATLAB/Simulink, or Process Modeling.
 
 <br>
 
@@ -38,7 +38,7 @@
 ## 💻 Technical Stack & Engineering Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,postgres,mysql,sqlite,powerbi,azure,docker,github,arduino,raspberrypi,notion&theme=dark&perline=7" alt="Engineering & Analytics Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,mysql,oracle,sqlite,powerbi,azure,github,arduino,raspberrypi,notion&theme=dark&perline=6" alt="Engineering & Analytics Tech Stack" />
 </p>
 
 <br>
@@ -46,10 +46,10 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Data Analysis & Scripting** | `Python` `Pandas` `NumPy` `Matplotlib` `scikit-learn` |
-| **Databases & Querying** | `SQL Server` `PostgreSQL` `MySQL` `SQLite` |
+| **Databases & Querying** | `MySQL` `Oracle SQL` `SQL Server` `SQLite` |
 | **BI, Automation & Cloud** | `Power BI` `Tableau` `Power Apps` `Power Automate` `Azure` |
 | **Engineering, Modeling & Simulation** | `MATLAB` `Simulink` `OpenCV` `C++` `C#` `Arduino` `Raspberry Pi` |
-| **DevOps & Support Tools** | `Docker` `Git` `Jira` `Confluence` `LaTeX` `Notion` |
+| **DevOps & Support Tools** | `Git` `Jira` `Confluence` `LaTeX` `Notion` |
 
 </div>
 
@@ -60,7 +60,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DCD55&color=0077b5&style=flat-square&label=PROFILE_VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DCD55&color=f2c811&style=flat-square&label=PROFILE_VIEWS" alt="Profile Views" />
 </p>
 
 </div>
