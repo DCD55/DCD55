@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Banner Ejecutivo Enfocado en Datos -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,100:0077b5&height=200&section=header&text=Diego%20Carmona%20D%C3%ADaz&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%26%20Process%20Optimization&descSize=16&descAlignY=62&descColor=f2c811" width="100%" alt="Header Banner"/>
+<!-- Banner Principal Equilibrado (Ingeniería + Data) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,100:0077b5&height=200&section=header&text=Diego%20Carmona%20D%C3%ADaz&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Automation%20%26%20Control%20Engineer%20%7C%20Data%20Analytics%20%26%20Process%20Optimization&descSize=15&descAlignY=62&descColor=f2c811" width="100%" alt="Header Banner"/>
 
 <br>
 
-<!-- Typing SVG con Enfoque en Análisis de Datos -->
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&pause=1000&color=0077B5&center=true&vcenter=true&width=600&lines=Data-Driven+Problem+Solver;SQL+%27%2B+Power+BI+%2B+Python+Analytics;Automating+Data+Workflows+%26+ETL;Transforming+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&pause=1000&color=0077B5&center=true&vcenter=true&width=600&lines=Control+%26+Automation+Engineering;Data+Analytics+%2B+Process+Optimization;Python+%2B+SQL+%2B+Power+BI+%2B+MATLAB;Industrial+Computer+Vision+%26+Smart+Workflows" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -18,16 +18,16 @@
 
 <br>
 
-## 📊 About Me & Data Profile
+## 💻 About Me & Engineering Profile
 
 > [!NOTE]
 > **Primary Focus**  
-> Data Analyst specialized in transforming raw industrial and operational data into actionable dashboards, automated workflows, and decision-making insights.
+> Control & Automation Engineer specialized in process optimization, data analytics, industrial computer vision, and building automated data workflows.
 
-- 🔭 **Current Work:** Process optimization, data workflow automation, and internal reporting tools.
-- 🛠️ **Core Competencies:** Data Modeling, SQL Querying, Dashboarding (Power BI), Data Wrangling, and Process Analytics.
-- 🌱 **Learning & Expansion:** Advanced AI/ML integration workflows and Polish language.
-- 💬 **Ask me about:** SQL, Power BI, Python for Data Analysis, Power Platform (Power Apps/Automate), and Process Optimization.
+- 🔭 **Current Work:** Process optimization, data workflow automation, and internal tool development.
+- 🛠️ **Core Competencies:** Data Analytics, Process Modeling, SQL Querying, Power BI Dashboards, Computer Vision, and Automation.
+- 🌱 **Learning & Expansion:** AI/ML integration workflows and Polish language.
+- 💬 **Ask me about:** Control & Automation Engineering, Power Platform, Python, SQL, MATLAB/Simulink, or Process Modeling.
 
 <br>
 
@@ -35,10 +35,10 @@
 
 <div align="center">
 
-## 💻 Technical Stack & Data Tools
+## 💻 Technical Stack & Engineering Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,powerbi,azure,docker,github,notion&theme=dark&perline=9" alt="Data Analytics Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,postgres,mysql,sqlite,powerbi,azure,docker,github,arduino,raspberrypi,notion&theme=dark&perline=7" alt="Engineering & Analytics Tech Stack" />
 </p>
 
 <br>
@@ -47,9 +47,9 @@
 | :--- | :--- |
 | **Data Analysis & Scripting** | `Python` `Pandas` `NumPy` `Matplotlib` `scikit-learn` |
 | **Databases & Querying** | `SQL Server` `PostgreSQL` `MySQL` `SQLite` |
-| **BI & Visualization** | `Power BI` `Tableau` `Excel (Advanced)` |
-| **Automation & Cloud** | `Power Apps` `Power Automate` `Azure` `Apache Airflow` |
-| **Engineering & Support** | `C++` `OpenCV` `LaTeX` `Git` `Jira` |
+| **BI, Automation & Cloud** | `Power BI` `Tableau` `Power Apps` `Power Automate` `Azure` |
+| **Engineering, Modeling & Simulation** | `MATLAB` `Simulink` `OpenCV` `C++` `C#` `Arduino` `Raspberry Pi` |
+| **DevOps & Support Tools** | `Docker` `Git` `Jira` `Confluence` `LaTeX` `Notion` |
 
 </div>
 
@@ -64,4 +64,5 @@
 </p>
 
 </div>
+
 
