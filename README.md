@@ -1,7 +1,7 @@
 <div align="center">
 
 # Diego CD
-### **Automation & Control Engineer | Data Analytics & Optimization**
+### **AI & Automation Engineer | Data Analytics & Optimization**
 
 `Python` • `SQL` • `Power BI` • `MATLAB & Simulink` • `Computer Vision` • `Power Platform`
 
